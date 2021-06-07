@@ -1,0 +1,42 @@
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    ;
+  }
+  body{
+    background-color: rgba(92, 161, 172, 0.92);
+  }
+
+ .page-title{
+   color:rgba(58, 47, 165, 0.753);
+   text-align: center;
+   font-size: 4rem;
+   font-style: normal;
+   font-family: 'Times New Roman', Times, serif;
+ }
+
+ .select{
+  text-align: center;
+  color: #464da8;
+  font-size: 2rem;
+
+ }
+
+  .button1 {
+      background-color: #806A3F;
+          
+     }
+  .button2 {
+      background-color: #35914c;
+    }
+  .button3 {
+      background-color: #ca1c24;
+    }
+
